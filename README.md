@@ -1,5 +1,5 @@
-# Python-Projects-For-Beginner
-Interesting python projects for beginner to practice python programming
+# Python-Practices
+Python projects for python daily practice. Solutions are attached via separate file. Anyone is welcome to add new projects and share the solutions to the existing/new projects.
 
 - *Project 1:* personal contact information QR code generator
 
